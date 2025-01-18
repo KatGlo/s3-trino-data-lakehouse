@@ -37,7 +37,7 @@
   </property>
   <property>
     <name>hive.metastore.warehouse.dir</name>
-    <value>s3a://alice-data-lake-temp/</value>
+    <value>s3a://bucket/</value>
   </property>
 
   <!-- S3 Configuration -->
