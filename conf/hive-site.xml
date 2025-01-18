@@ -37,7 +37,7 @@
   </property>
   <property>
     <name>hive.metastore.warehouse.dir</name>
-    <value>s3a://bucket/</value>
+    <value>s3a://my-bucket/</value>
   </property>
 
   <!-- S3 Configuration -->
