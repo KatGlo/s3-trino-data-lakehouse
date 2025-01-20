@@ -58,6 +58,7 @@ This repository provides an implementation of a modern **Data Lakehouse architec
 
 3. **Start the services**:  
    ```bash
+   docker compose build
    docker compose up -d
    ```
 
